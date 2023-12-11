@@ -12,4 +12,4 @@ fit <- emcncf(oo)
 # plotSample(x = oo, emfit = fit)
 # logRlogORspider(oo$out, oo$dipLogR)
 names(fit)
-snp
+names(oo)
